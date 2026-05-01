@@ -9,7 +9,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "start": "node server/server.js"
+     "start": "node server/server.js",
+     "build": "echo build skipped"
+
   },
   "dependencies": {
     "react": "^19.2.5",
